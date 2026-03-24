@@ -22,16 +22,17 @@ Dự án được viết bằng Python và giao diện xây dựng thông qua Fr
 
 2. Thiết lập cấu hình Secret:
 Vào thư mục `.streamlit`, tạo file `secrets.toml`:
-`API_CHECK_KEY = "https://.../api/vip/c"`
-`API_CHECKER = "https://.../api/vip/cdks"`
-`API_CHECK_USER = "https://.../api/vip/check-user"`
-`API_UPGRADE = "https://.../api/vip/r"`
+`API_CHECK_KEY = "https://.../api/c"`
+`API_CHECKER = "https://.../api/cdks"`
+`API_CHECK_USER = "https://.../api/check-user"`
+`API_UPGRADE = "https://.../api/r"`
 
 3. Chạy Code thực thi:
 `streamlit run hi.py`
 
 ## Developer 👨‍💻
-Được lập trình và tối ưu hóa bởi **Le Hai (Lequanghaia1)**.
+Được lập trình và tối ưu hóa bởi **Le Hai**.
+Telegram: **https://t.me/arjso1612**
 
 Web đang dùng có nhiều chức năng hơn:
 https://renewgpt.streamlit.app/
